@@ -59,7 +59,7 @@ iface lo inet loopback
 
 auto ens33
 iface ens33 inet static
-address 192.168.7.80
+address 192.168.7.128
 netmask 255.255.0.0
 gateway 192.168.7.1
 
