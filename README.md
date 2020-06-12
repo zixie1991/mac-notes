@@ -8,3 +8,6 @@ Macbook使用记录。。。
 * vlc 播放器
 * charles 抓包
 * xmind 思维导图
+* textmate 文本编辑器
+* draw.io 画图工具
+* postman http调试工具
