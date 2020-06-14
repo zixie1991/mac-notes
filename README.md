@@ -2,7 +2,7 @@
 
 Macbook使用记录。。。
 
-常用开发软件
+## 常用开发软件
 
 * brew https://brew.sh/
 * iterm2 终端
@@ -14,3 +14,8 @@ Macbook使用记录。。。
 * postman http调试工具
 * Hex Fiend 二进制分析
 
+## 常见问题
+
+iterm2 rzsz
+
+* [Mac osx 下安装iTerm2，并使用rz sz上传下载（附homebrew配置）](https://segmentfault.com/a/1190000012166969)
