@@ -19,3 +19,5 @@ Macbook使用记录。。。
 iterm2 rzsz
 
 * [Mac osx 下安装iTerm2，并使用rz sz上传下载（附homebrew配置）](https://segmentfault.com/a/1190000012166969)
+* [item2设置滚动缓冲区行数](https://blog.csdn.net/yuxeaotao/article/details/99681627)
+   >Preferences > Profiles > Terminal
