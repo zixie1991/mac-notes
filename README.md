@@ -13,6 +13,7 @@ Macbook使用记录。。。
 * draw.io 画图工具
 * postman http调试工具
 * Hex Fiend 二进制分析
+* SwitchHosts! 快速切换 hosts 文件的小程序
 
 ## 常见问题
 
